@@ -69,6 +69,7 @@ a {
 .hero-button {
   color: #ffffff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 .hero-button:hover,
 .hero-button:focus {
